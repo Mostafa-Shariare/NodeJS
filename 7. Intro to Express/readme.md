@@ -1,5 +1,6 @@
 # Express.js, Tech Stacks & REST API
-![Express.js Logo](https://www.google.com/imgres?q=mern%20stack&imgurl=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fwp-content%2Fuploads%2F20231110115359%2FRoadmap-to-Mern-stack-developer-copy-(3).webp&imgrefurl=https%3A%2F%2Fwww.geeksforgeeks.org%2Fmern-stack%2F&docid=Ou2m7pkxPds56M&tbnid=lIx1cNSrAaU18M&vet=12ahUKEwiO4fSOqteLAxUR3TgGHRE3AekQM3oECBcQAA..i&w=1000&h=500&hcb=2&ved=2ahUKEwiO4fSOqteLAxUR3TgGHRE3AekQM3oECBcQAA)
+![Express.js Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
+
 
 
 ## 1. What is Express.js?
@@ -26,7 +27,7 @@ Express.js is widely used due to its simplicity, efficiency, and flexibility. He
 ## 3. Popular Tech Stacks
 
 ### MERN Stack
-![MERN Stack](https://miro.medium.com/max/1200/1*fE0XJzjV-4D6UgiNX3A1WA.png)
+
 - **M**ongoDB - NoSQL database
 - **E**xpress.js - Backend framework
 - **R**eact.js - Frontend library
