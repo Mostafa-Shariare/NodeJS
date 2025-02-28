@@ -128,7 +128,4 @@ fetch('http://localhost:3000/form-data', {
 .then(data => console.log(data));
 ```
 
----
 
-## 📜 License
-This project is licensed under the MIT License.
