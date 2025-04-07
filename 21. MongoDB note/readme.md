@@ -1,10 +1,12 @@
 # 📘 MonDB Note
 
+> 📍 [GitHub Repo Link](https://github.com/Mostafa-Shariare/MonDB-note)
+
 Welcome to **MonDB Note**, your go-to repository for learning and revising the core concepts of **MongoDB** and **Mongoose**!
 
 This repo is perfect for:
-- 🧑‍🎓 Students learning MongoDB for the first time
-- 👨‍💻 Developers working with the MERN stack
+- 🧑‍🎓 Students learning MongoDB for the first time  
+- 👨‍💻 Developers working with the MERN stack  
 - 🔁 Anyone looking to quickly revise MongoDB basics with hands-on examples
 
 ---
@@ -53,4 +55,3 @@ Each folder contains concise, organized notes with code examples to help you lea
 Created with 💚 by [Mostafa Shariare](https://github.com/Mostafa-Shariare)  
 
 ---
-
